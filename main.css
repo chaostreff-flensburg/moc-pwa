@@ -1,0 +1,14 @@
+.list {
+  padding-inline-start: 0;
+}
+
+.list-item {
+  list-style-type: none;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #000000;
+}
+
+.list-item__time {
+  float: right;
+}
